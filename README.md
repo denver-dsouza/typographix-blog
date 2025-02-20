@@ -1,1 +1,1 @@
-# typographic-blog
+# typographix-blog
