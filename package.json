@@ -1,0 +1,22 @@
+{
+  "name": "typographix-blog",
+  "version": "1.0.0",
+  "description": "Typgraphix Blog using SCSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denver-dsouza/typographix-blog.git"
+  },
+  "author": "Denver D'Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denver-dsouza/typographix-blog/issues"
+  },
+  "homepage": "https://github.com/denver-dsouza/typographix-blog#readme",
+  "devDependencies": {
+    "sass": "^1.85.0"
+  }
+}
