@@ -1,24 +1,16 @@
 {
-  "name": "typographix-blog",
+  "name": "typographix-blog-v3",
   "version": "1.0.0",
-  "description": "Typgraphix Blog using SCSS",
+  "description": "Typographix blog with SCSS",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "sass-dev": "sass --watch --source-map scss/main.scss:css/compiled_style.css",
     "sass-prod": "sass --no-source-map --style=compressed scss/main.scss:css/compiled_style.css"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/denver-dsouza/typographix-blog.git"
-  },
-  "author": "Denver D'Souza",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/denver-dsouza/typographix-blog/issues"
-  },
-  "homepage": "https://github.com/denver-dsouza/typographix-blog#readme",
+  "author": "Jacinto Design",
+  "license": "ISC",
   "devDependencies": {
-    "sass": "^1.85.0"
+    "sass": "^1.69.5"
   }
 }

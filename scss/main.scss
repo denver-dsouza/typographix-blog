@@ -1,4 +1,7 @@
-// Import SCSS Partials
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;900&display=swap');
+
+// Import SCSS partials
 @import 'variables';
 @import 'mixins';
 @import 'reset';
@@ -9,4 +12,3 @@
 @import 'footer';
 @import 'media-queries';
 @import 'scrollbar';
-@import 'mixins';
